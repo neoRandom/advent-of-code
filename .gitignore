@@ -1,0 +1,8 @@
+__pycache__/
+
+# No external library here, baby
+# .env
+# .venv
+
+*.secret
+*.env
